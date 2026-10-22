@@ -1,0 +1,3 @@
+{"_catatan":"PLACEHOLDER. Ganti dengan koefisien Logistic Regression hasil training Python (notebooks/).",
+ "intercept":-2.2,
+ "coef":{"jamban_sehat":-0.6,"air_bersih":-0.7,"cuci_tangan":-0.5,"asi_eksklusif":-0.4,"imunisasi_lengkap":-0.3,"gizi_kurang":0.8}}
