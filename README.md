@@ -24,12 +24,12 @@ Pertanyaan analitik yang dijawab:
 
 ## Teknologi
 
-| Lapisan                       | Teknologi                                                            |
-|                               |                                                                      |
-| Aplikasi & dashboard          | Python, Streamlit, Plotly, Pandas                                    |
-| Penyimpanan data (saat ini)   | File CSV di folder `data/`                                           |
-| Backend API (opsional)        | Go, SQLite (`modernc.org/sqlite`)                                    |
-| Model                         | scikit-learn (Logistic Regression, Random Forest, Gradient Boosting) |
+| Lapisan | Teknologi |
+|---|---|
+| Aplikasi & dashboard | Python, Streamlit, Plotly, Pandas |
+| Penyimpanan data (saat ini) | File CSV di folder `data/` |
+| Backend API (opsional) | Go, SQLite (`modernc.org/sqlite`) |
+| Model | scikit-learn (Logistic Regression, Random Forest, Gradient Boosting) |
 
 ## Struktur Folder
 
